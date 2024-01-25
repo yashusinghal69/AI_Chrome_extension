@@ -12,5 +12,14 @@ AI-generated Content Detection model allows you to quickly scan any text on the 
 
 To use this Chrome extension, follow the steps below:
 
-### Step 1: Clone the Repository
+### Step 1: Copy the Repository URLy
  
+On the GitHub repository page, find the green "Code" button. Click on it to reveal the repository's URL. Copy the URL by clicking the clipboard icon or manually copying it.
+
+### Step 2:Open Terminal or Command Prompt
+
+Open the terminal or command prompt on your local machine. This is where you'll enter Git commands.
+
+### Step 3: Navigate to the Directory
+
+Navigate to the directory (folder) where you want to clone the repository. You can use the cd command to change directories. For example:
