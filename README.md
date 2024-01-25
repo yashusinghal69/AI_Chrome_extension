@@ -24,8 +24,10 @@ Open the terminal or command prompt on your local machine. This is where you'll 
 
 Navigate to the directory (folder) where you want to clone the repository. You can use the cd command to change directories. For example:
 
+cd C:/Coding-Folder/Extension
+
 ### Step 4:Clone the Repository
 
 Use the git clone command followed by the repository URL you copied earlier. For example:
 
-
+![Alt Text](https://imgur.com/j3HA4Qt)
