@@ -39,24 +39,16 @@ Use the git clone command followed by the repository URL you copied earlier. For
 To Use this extension first you have to upload the folder of this extension to chrome extension developers mode. You can follow these steps:
 
 #### 1 : Open chrome extension and go to chrome://extensions/(Web Store)
-
-
-
-
 #### 2 : Enable "Developer mode" using the toggle switch in the top right corner.
-![Screenshot 2024-01-26 200002](https://github.com/yashusinghal69/AI_Chrome_extension/assets/125557043/a9bef029-5396-4ca6-9008-964f51899830)
-
-
-
-
 #### 3 : Click on "Load unpacked" and select the directory where you cloned the extension repository and upload it .
-![Screenshot 2024-01-26 200439](https://github.com/yashusinghal69/AI_Chrome_extension/assets/125557043/09206089-74ac-47fc-a021-fc5840f72dad)
-
-
-
-
 #### 4 : The extension will be loaded, and you should see it listed among your installed extensions.
-![Screenshot 2024-01-26 200852](https://github.com/yashusinghal69/AI_Chrome_extension/assets/125557043/2558030b-6203-4c4e-9549-74976edd1567)
+#### 5: You can take help from the screenshot given below:
+![Screenshot 2024-01-26 200002](https://github.com/yashusinghal69/AI_Chrome_extension/assets/125557043/a9bef029-5396-4ca6-9008-964f51899830)
+![Screenshot 2024-01-26 200439](https://github.com/yashusinghal69/AI_Chrome_extension/assets/125557043/09206089-74ac-47fc-a021-fc5840f72dad)
+![Screenshot 2024-01-26 200852](https://github.com/yashusinghal69/AI_Chrome_extension/assets/125557043/2558030b-6203-4c4e-9549-74976edd1567)<br /><br /><br /><br />
+
+### Step 3 : Open the Extension
+
 
 
 
