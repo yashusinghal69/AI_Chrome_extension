@@ -10,9 +10,9 @@ AI-generated Content Detection model allows you to quickly scan any text on the 
 
 ## Getting Started
 
-To use this Chrome extension, follow the steps below:
+To use this Chrome extension, follow the steps below:<br /><br />
 
-### Steps 1 : Clone the Repository
+### Steps 1 : Clone the Repository<br /><br />
 
 #### 1 : Copy the Repository URLy©️
  
@@ -30,9 +30,9 @@ cd C:/Coding-Folder/Extension
 
 #### 4 : Clone the Repository
 
-Use the git clone command followed by the repository URL you copied earlier. For example:
+Use the git clone command followed by the repository URL you copied earlier. For example:<br /><br />
 
-![Screenshot 2024-01-26 193056](https://github.com/yashusinghal69/AI_Chrome_extension/assets/125557043/156d9ca1-3430-4ac6-8cee-3df536722a4b)
+![Screenshot 2024-01-26 193056](https://github.com/yashusinghal69/AI_Chrome_extension/assets/125557043/156d9ca1-3430-4ac6-8cee-3df536722a4b)<br /><br />
 
 ### Steps 2: Load the Extension in Developer Mode
 
@@ -42,16 +42,22 @@ To Use this extension first you have to upload the folder of this extension to c
 #### 2 : Enable "Developer mode" using the toggle switch in the top right corner.
 #### 3 : Click on "Load unpacked" and select the directory where you cloned the extension repository and upload it .
 #### 4 : The extension will be loaded, and you should see it listed among your installed extensions.
-#### 5: You can take help from the screenshot given below:
+#### 5: You can take help from the screenshot given below:<br /><br />
 
 ![Screenshot 2024-01-26 200002](https://github.com/yashusinghal69/AI_Chrome_extension/assets/125557043/a9bef029-5396-4ca6-9008-964f51899830)
 ![Screenshot 2024-01-26 200439](https://github.com/yashusinghal69/AI_Chrome_extension/assets/125557043/09206089-74ac-47fc-a021-fc5840f72dad)
 ![Screenshot 2024-01-26 200852](https://github.com/yashusinghal69/AI_Chrome_extension/assets/125557043/2558030b-6203-4c4e-9549-74976edd1567)<br /><br /><br /><br />
 
-### Step 3 : Open the Extension
+### Step 3 : Test Your Extension(WARNING!!!⚠️⚠️)<br/>
+You can pin  the extension so that you can easily use it by just clicking on the icon which is  just left side of Extension button.<br/>
 
+![Screenshot 2024-01-26 201920](https://github.com/yashusinghal69/AI_Chrome_extension/assets/125557043/2ba512cd-bf62-4583-9607-f1f1fbdffe3c)<br /><br /><br />
 
+#### IF YOU GIVE SOME TEXT IN THE INPUT BOX AND CLICK ON PREDICT BUTTON YOU SEE THAT NOTHING HAPPEN BUT DO'T WOORY YOU HAVE NOT COMPLETED THE WHOLE PROCESS OF INSTALLATION.
 
+### Step 4: Starting Flask Server
+
+You may thinking that why it is not working because
 
 
 
