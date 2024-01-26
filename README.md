@@ -43,6 +43,7 @@ To Use this extension first you have to upload the folder of this extension to c
 #### 3 : Click on "Load unpacked" and select the directory where you cloned the extension repository and upload it .
 #### 4 : The extension will be loaded, and you should see it listed among your installed extensions.
 #### 5: You can take help from the screenshot given below:
+
 ![Screenshot 2024-01-26 200002](https://github.com/yashusinghal69/AI_Chrome_extension/assets/125557043/a9bef029-5396-4ca6-9008-964f51899830)
 ![Screenshot 2024-01-26 200439](https://github.com/yashusinghal69/AI_Chrome_extension/assets/125557043/09206089-74ac-47fc-a021-fc5840f72dad)
 ![Screenshot 2024-01-26 200852](https://github.com/yashusinghal69/AI_Chrome_extension/assets/125557043/2558030b-6203-4c4e-9549-74976edd1567)<br /><br /><br /><br />
