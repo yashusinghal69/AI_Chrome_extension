@@ -33,7 +33,6 @@ cd C:/Coding-Folder/Extension
 Use the git clone command followed by the repository URL you copied earlier. For example:
 
 
-![Alt Text](https://github.com/yashusinghal69/AI_Chrome_extension/assets/125557043/d4b9d89b-ad4a-4b81-910e-7db552fcf55c)
 
 
 ### Steps 2: 
